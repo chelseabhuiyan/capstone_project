@@ -15,14 +15,13 @@ Mobile App Dev - App Brainstorming Example
    - **Market:** Any school district or individual classroom teacher of any grade could utilize this app. 
    - **Habit:** Students can use this app.
    - **Scope:** 
-2. Cardmatch game
-   - **Description**: Is a basic game where you flip two cards and try to make them match. If they arent the same they flip back. If its the same those are removed. Each level the cards are randomly placed.  
-   - **Category:** Entertainment
-   - **Mobile:** Mobile is essential playing easily anywhere.
-   - **Story:** Helps imporve memory. 
-   - **Market:** Any kid or adult can play this game.
-   - **Habit:** Build for anyone.
-   - **Scope:** 
+2. Cardmatch Game
+    - Description: A basic game where players flip two cards at a time to find matching pairs. If the cards match, they are removed from the grid. Otherwise, they flip back over. Each level presents a new grid of cards, randomly placed.
+    - Category: Entertainment
+    - Mobile: The game is designed for mobile devices, allowing players to easily enjoy it anywhere.
+    - Story: The game aims to improve memory skills by challenging players to remember the positions of cards and find matching pairs.
+    - Market: Suitable for all age groups, from kids to adults, who enjoy casual puzzle games.
+    - Habit: Addictive gameplay that encourages players to come back and improve their memory skills over time.\
 3. NYC halal resturants
    - **Description**: Helps find halal resturanats in nyc and allows you to favorite the resturants you like.
    - **Category:** Lifestyle
@@ -33,6 +32,55 @@ Mobile App Dev - App Brainstorming Example
    - **Scope:** 
 
 
+## App Spec
 
+### User Features:
+- **Flip cards:** Tap on any card to flip it over and reveal the hidden symbol.
+- **Match pairs:** Find and match pairs of cards with the same symbol.
+- **Level progression:** Progress through multiple levels with increasing difficulty by successfully matching all pairs.
+- **Score tracking:** Keep track of the number of moves or time taken to complete each level.
 
+### Screens & Navigation Flows:
+1. **Main Menu Screen:**
+   - Options to start a new game, view high scores, or access settings.
+   - Transition to the gameplay screen upon starting a new game.
 
+2. **Gameplay Screen:**
+   - Grid layout of cards to be matched.
+   - Tap gesture recognition to flip cards.
+   - Transition to the next level upon completing the current level.
+
+3. **Level Completion Screen:**
+   - Display level completion message and option to proceed to the next level or return to the main menu.
+
+4. **High Scores Screen:**
+   - Display the highest scores achieved by the player.
+   - Option to reset scores or return to the main menu.
+
+5. **Settings Screen:**
+   - Adjust game settings such as sound effects and music volume.
+   - Option to return to the main menu.
+
+### Navigation Flows:
+- **Main Menu Screen:**
+  - Start Game -> Gameplay Screen
+  - View High Scores -> High Scores Screen
+  - Settings -> Settings Screen
+
+- **Gameplay Screen:**
+  - Complete Level -> Level Completion Screen (Next Level)
+
+- **Level Completion Screen:**
+  - Next Level -> Gameplay Screen
+  - Main Menu -> Main Menu Screen
+
+- **High Scores Screen:**
+  - Reset Scores -> High Scores Screen
+  - Main Menu -> Main Menu Screen
+
+- **Settings Screen:**
+  - Main Menu -> Main Menu Screen
+
+## Wireframe Images
+- Sketch low-fidelity wireframes depicting the main menu, gameplay, level completion, high scores, and settings screens.
+- Add images of these wireframes to your project repository.
