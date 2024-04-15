@@ -16,12 +16,13 @@ Mobile App Dev - App Brainstorming Example
    - **Habit:** Students can use this app.
    - **Scope:** 
 2. Cardmatch Game
-    - Description: A basic game where players flip two cards at a time to find matching pairs. If the cards match, they are removed from the grid. Otherwise, they flip back over. Each level presents a new grid of cards, randomly placed.
-    - Category: Entertainment
-    - Mobile: The game is designed for mobile devices, allowing players to easily enjoy it anywhere.
-    - Story: The game aims to improve memory skills by challenging players to remember the positions of cards and find matching pairs.
-    - Market: Suitable for all age groups, from kids to adults, who enjoy casual puzzle games.
-    - Habit: Addictive gameplay that encourages players to come back and improve their memory skills over time.\
+    - **Description**: A basic game where players flip two cards at a time to find matching pairs. If the cards match, they are removed from the grid. Otherwise, they flip back over. Each level presents a new grid of cards, randomly placed.
+    - **Category**: Entertainment
+    - **Mobile**: The game is designed for mobile devices, allowing players to easily enjoy it anywhere.
+    - **Story**: The game aims to improve memory skills by challenging players to remember the positions of cards and find matching pairs.
+    - **Market**: Suitable for all age groups, from kids to adults, who enjoy casual puzzle games.
+    - **Habit**: Addictive gameplay that encourages players to come back and improve their memory skills over time.
+    - **Scope**:
 3. NYC halal resturants
    - **Description**: Helps find halal resturanats in nyc and allows you to favorite the resturants you like.
    - **Category:** Lifestyle
