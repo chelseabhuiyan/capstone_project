@@ -1,6 +1,5 @@
-Mobile App Dev - App Brainstorming Example
-===
-  
+# App Brainstorming Example
+
 ## Top 3 New App Ideas
 1. Cardmatch game
 2. Flashcard app
@@ -8,30 +7,31 @@ Mobile App Dev - App Brainstorming Example
 
 ## New App Ideas - Evaluate and Categorize
 1. Flashcard app
-   - **Description**: Helps you review for exam.
+   - **Description:** Helps you review for exam.
    - **Category:** Education
    - **Mobile:** Mobile is essential for the instant making of flashcards and reviewing anywhere.
    - **Story:** Helps students quiz themselves and review terms. Can set up reminders to remember to study throughout the day.
    - **Market:** Any school district or individual classroom teacher of any grade could utilize this app. 
    - **Habit:** Students can use this app.
    - **Scope:** 
+
 2. Cardmatch Game
-    - **Description**: A basic game where players flip two cards at a time to find matching pairs. If the cards match, they are removed from the grid. Otherwise, they flip back over. Each level presents a new grid of cards, randomly placed.
-    - **Category**: Entertainment
-    - **Mobile**: The game is designed for mobile devices, allowing players to easily enjoy it anywhere.
-    - **Story**: The game aims to improve memory skills by challenging players to remember the positions of cards and find matching pairs.
-    - **Market**: Suitable for all age groups, from kids to adults, who enjoy casual puzzle games.
-    - **Habit**: Addictive gameplay that encourages players to come back and improve their memory skills over time.
-    - **Scope**:
+    - **Description:** A basic game where players flip two cards at a time to find matching pairs. If the cards match, they are removed from the grid. Otherwise, they flip back over. Each level presents a new grid of cards, randomly placed.
+    - **Category:** Entertainment
+    - **Mobile:** The game is designed for mobile devices, allowing players to easily enjoy it anywhere.
+    - **Story:** The game aims to improve memory skills by challenging players to remember the positions of cards and find matching pairs.
+    - **Market:** Suitable for all age groups, from kids to adults, who enjoy casual puzzle games.
+    - **Habit:** Addictive gameplay that encourages players to come back and improve their memory skills over time.
+    - **Scope:** 
+
 3. NYC halal resturants
-   - **Description**: Helps find halal resturanats in nyc and allows you to favorite the resturants you like.
+   - **Description:** Helps find halal resturanats in nyc and allows you to favorite the resturants you like.
    - **Category:** Lifestyle
    - **Mobile:** Mobile app makes it simple to use when you are traveling.
    - **Story:** Sometimes it is hard to find halal options and this will make it easily to locate based on the type of food you are craving.
    - **Market:** For anyone looking for Halal resturnats in nyc
    - **Habit:** Build for anyone.
    - **Scope:** 
-
 
 ## App Spec
 
@@ -81,7 +81,5 @@ Mobile App Dev - App Brainstorming Example
 
 - **Settings Screen:**
   - Main Menu -> Main Menu Screen
-
-## Wireframe Images
-- Sketch low-fidelity wireframes depicting the main menu, gameplay, level completion, high scores, and settings screens.
-- Add images of these wireframes to your project repository.
+    
+### WireFrames:
