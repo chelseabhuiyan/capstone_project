@@ -81,7 +81,8 @@
 
 - **Settings Screen:**
   - Main Menu -> Main Menu Screen
-    
+### Video:
+https://www.loom.com/share/4cf2de4841234867bf7b1dfa846160d6?sid=cd54e4fa-8f4a-40a4-bbff-30d957cba165
 ### WireFrames:
 
 ![IMG_5089](https://github.com/chelseabhuiyan/capstone_project/assets/107600859/69d18be3-c11c-4cc5-9fbd-15409d8f7dda)
